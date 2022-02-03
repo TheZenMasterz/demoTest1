@@ -5,6 +5,6 @@ import org.junit.*;
 public class LiveDemoTester {
     @Test
     public void quickTest(){
-        assertEquals("no equal to two", LiveDemo.two(), 3);
+        assertEquals("no equal to two", LiveDemo.two(), 2);
     }
 }
